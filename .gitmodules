@@ -4,6 +4,7 @@
 [submodule "roms/seabios"]
 	path = roms/seabios
 	url = git://git.qemu-project.org/seabios.git/
+	url = git://github.com/outscale/seabios.git
 [submodule "roms/SLOF"]
 	path = roms/SLOF
 	url = git://git.qemu-project.org/SLOF.git
