@@ -1,4 +1,8 @@
-         QEMU README
+Outscale fork of Qemu to keep some specific forks
+
+[![Project Archived](https://docs.outscale.com/fr/userguide/_images/Project-Archived-red.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
+
+QEMU README
          ===========
 
 QEMU is a generic and open source machine & userspace emulator and
